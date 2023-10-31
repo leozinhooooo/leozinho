@@ -1,0 +1,51 @@
+id;nombre;apellido;genero;carrera;puntajeMatematicas
+1;Mateo;Gómez;M;Ingeniería Civil;90
+2;Daniela;Pérez;F;Medicina;75  
+3;Pablo;Díaz;M;Derecho;80
+4;Lucía;Torres;F;Arquitectura;85
+5;Sebastián;Suárez;M;Ingeniería Industrial;70
+6;Gabriela;Sánchez;F;Medicina;95
+7;Alejandro;Martínez;M;Derecho;60 
+8;Jimena;González;F;Arquitectura;90
+9;Diego;Rodríguez;M;Ingeniería de Sistemas;85
+10;Isabel;Gutiérrez;F;Medicina;80
+11;Andrés;Núñez;M;Derecho;75
+12;Antonella;Ramírez;F;Arquitectura;85  
+13;Joaquín;García;M;Ingeniería Civil;75  
+14;Micaela;Suárez;F;Medicina;90
+15;Nicolás;López;M;Derecho;70
+16;Josefina;Álvarez;F;Arquitectura;80
+17;Francisco;Ruiz;M;Ingeniería Industrial;95  
+18;Renata;Sánchez;F;Medicina;85
+19;Sergio;Flores;M;Derecho;80  
+20;Mercedes;Torres;F;Arquitectura;90
+21;Federico;Rodríguez;M;Ingeniería de Sistemas;75  
+22;Silvana;Fernández;F;Medicina;85
+23;Arturo;Gutiérrez;M;Derecho;80
+24;Elisa;Núñez;F;Arquitectura;70
+25;Emiliano;García;M;Ingeniería Civil;90
+26;Olivia;Martínez;F;Medicina;75
+27;Javier;Díaz;M;Derecho;85
+28;Daniela;Ramos;F;Arquitectura;80  
+29;Alexis;Ruiz;M;Ingeniería Industrial;95
+30;Mía;Sánchez;F;Medicina;70  
+31;Lautaro;Flores;M;Derecho;75
+32;Josefina;Cruz;F;Arquitectura;85
+33;Thiago;Rodríguez;M;Ingeniería de Sistemas;80
+34;Aurora;Gómez;F;Medicina;90  
+35;Tadeo;Pérez;M;Derecho;75
+36;Antonella;González;F;Arquitectura;85
+37;Joaquín;García;M;Ingeniería Civil;90  
+38;Renata;Suárez;F;Medicina;80
+39;Andrés;López;M;Derecho;85
+40;Mercedes;Álvarez;F;Arquitectura;75
+41;Tomás;Ruiz;M;Ingeniería Industrial;80
+42;Silvana;Sánchez;F;Medicina;95  
+43;Nicolás;Flores;M;Derecho;85 
+44;Trinidad;Torres;F;Arquitectura;70  
+45;Valentín;Rodríguez;M;Ingeniería de Sistemas;80
+46;Luciana;Fernández;F;Medicina;85
+47;Roberto;Gutiérrez;M;Derecho;90  
+48;María José;Núñez;F;Arquitectura;85
+49;Bautista;García;M;Ingeniería Civil;75
+50;Daniela;Martínez;F;Medicina;70
